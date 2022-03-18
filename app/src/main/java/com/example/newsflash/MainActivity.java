@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     EditText etQuery;
     Button btnSearch;
     Dialog dialog;
-    final String API_KEY = "the api key";
+    final String API_KEY = "the api key goes here";
     Adapter adapter;
     List<Articles> articles = new ArrayList<>();
 
