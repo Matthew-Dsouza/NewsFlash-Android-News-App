@@ -1,2 +1,2 @@
 # NewsFlash-Android-News-App
-I have created this app using Java xml. It fetches the data from newsapi.org site and displays them inside the app's activities. Have also added search functionality using the search api that the website provides.
+I have created this app using Java xml. It fetches the data from newsapi.org site and displays them inside the app's activities. Have also added search functionality using the search api that the website provides. There's also a webview component added inside the Detailed view of an article to make it easier to access an article blog's contents without leaving the app.
